@@ -9,7 +9,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: #C2DA09;
+	color: #C1DA08;
 	font-family: Verdana, sans-serif;
 }
 
@@ -19,10 +19,14 @@ span {
     color: #521D4E;
 }
 
-.button {
+button {
 	margin: 10px;
 	background-color: #521D4E;
+	height: 25px;
+	width: 100px;
 	margin: center;
+	display: inline-block;
+
 
 }
 
