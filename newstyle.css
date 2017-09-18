@@ -33,9 +33,11 @@ p {
 	font-family:Verdana, Tahoma, sans-serif;
 
 }
-
 .center {
-	margin:auto;
+		
+	margin: auto;
+	display: block;
+
 }
 
 table, th, td {
@@ -45,4 +47,13 @@ table, th, td {
     background-color:#521D4E;
     text-decoration: none;
 	color: #C1DA08;
-    font-family: Verdana, sans-serif;
+	font-family: Verdana, sans-serif;
+	
+}	
+
+#story {
+
+	text-align: center;
+}
+
+}
